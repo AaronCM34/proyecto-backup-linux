@@ -2,17 +2,6 @@
 
 # Proyecto: Sistema de copias de seguridad
 # Autor: Aaron
-# Curso: Shell Scripting
-# Carrera: Ciberseguridad - V ciclo
-# Version: 0.1
-# Descripcion: Automatiza las copias de seguridad
-# de archivos importantes en Linux.
-
-
-#!/bin/bash
-
-# Proyecto: Sistema de copias de seguridad
-# Autor: Aaron
 # Carrera: Ciberseguridad - V ciclo
 # Version: 1.0
 # Descripcion: Automatizar copias de seguridad en Linux.
